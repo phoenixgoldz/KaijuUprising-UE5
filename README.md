@@ -1,4 +1,4 @@
-![Kaiju Uprising Banner](KaijuUprising-UE5/KaijuUprising_BP/Content/Game/Art/kaijubanner_Image.png)
+![Kaiju Uprising Banner](KaijuUprising_BP/Content/Game/Art/kaijubanner_Image.png)
 
 # Kaiju Uprising
 
