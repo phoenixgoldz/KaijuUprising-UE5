@@ -1,10 +1,9 @@
+![Kaiju Uprising Banner](KaijuUprising-UE5/KaijuUprising_BP/Content/Game/Art/kaijubanner_Image.png)
+
 # Kaiju Uprising
 
 **Kaiju Uprising** is a third-person mech combat game built in **Unreal Engine 5.6**, where players pilot customizable **Titan Mechs** to battle massive Kaiju in large-scale, high-impact encounters.
 
-Players collect Kaiju parts after battle and use them to upgrade and customize their Titan Mech, creating a replayable progression system inspired by Monster Hunter–style tech trees.
-
----
 
 ## 🎮 Core Features
 
