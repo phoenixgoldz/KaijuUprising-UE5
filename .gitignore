@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/KaijuUprising_BP/Saved
+/KaijuUprising_BP/Saved
+/KaijuUprising_BP/Saved/Config
